@@ -1,0 +1,4 @@
+/* App-specific custom animations and theme utilities */
+.app-container {
+  min-height: 100vh;
+}
